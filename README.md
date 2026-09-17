@@ -240,4 +240,4 @@ This repository serves as the official landing page for Inkscape. The software i
 **Get the most recent version of Inkscape today!**
 
 ---
-**Last updated:** 2026-09-17 03:04:59 UTC
+**Last updated:** 2026-09-17 09:07:08 UTC
